@@ -347,7 +347,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff5db07d6afff0745a7a12927964b02c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SquareNumberInput: 12
+  SquareNumberInput: 10
 --- !u!114 &528323626
 MonoBehaviour:
   m_ObjectHideFlags: 0
